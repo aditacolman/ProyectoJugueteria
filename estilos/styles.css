@@ -1,7 +1,6 @@
 .centrar {
   margin: auto;
   display: block;
-
 }
 
 .centrartexto{
@@ -10,7 +9,7 @@
 
 #navegacion{
   text-align: center;
-  margin-top: 5px;
+  margin-top: 15px;
 }
 
 .modificarimg{
@@ -20,4 +19,11 @@
   width: 60%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.cuadrado {
+  width: 120px; /* Ancho de 150 píxeles */
+  height: 100px; /* Alto de 150 píxeles */
+  background: #eaeaea; 
+  border-radius: 11px;
 }
